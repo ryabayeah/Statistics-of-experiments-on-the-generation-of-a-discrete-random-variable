@@ -37,6 +37,7 @@ namespace WindowsFormsApp1
             }
             else
             {
+                Num5B.Text = aboba[4]+"";
                 StartB.Enabled = true;
             }
             
